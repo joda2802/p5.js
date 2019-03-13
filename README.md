@@ -1,2 +1,1 @@
-Repository for files using the p5.js javascript library:
-https://p5js.org/
+Repository for files using the  [javascript library](https://p5js.org/).
